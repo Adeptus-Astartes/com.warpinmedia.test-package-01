@@ -1,0 +1,10 @@
+{
+    "name": "com.warpinmedia.test-package-01",
+    "version": "1.0.0",
+    "description": "Test package",
+    "author": "Vadim Tihonyuk",
+    "license": "ISC",
+    "publishConfig": { 
+      "registry": "https://npm.pkg.github.com/@adeptus-astartes"
+    }
+  }
